@@ -1,0 +1,11 @@
+Model Information:
+* title:	trex
+* source:	https://sketchfab.com/3d-models/trex-c9cb7e00b7ba40458c0dc5e8c52eeed2
+* author:	Jaycee309 (https://sketchfab.com/Jaycee309)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "trex" (https://sketchfab.com/3d-models/trex-c9cb7e00b7ba40458c0dc5e8c52eeed2) by Jaycee309 (https://sketchfab.com/Jaycee309) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
